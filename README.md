@@ -6,14 +6,20 @@ I'm a passionate Full Stack Developer with hands-on experience in building scala
 🏆 GitHub Trophies
 
 🚀 About Me:
+
 🔭 Currently working on the Morya Restaurant Management System
+
 🌱 Continuously enhancing my skills in Full Stack Development and Cloud Technologies
+
 👨‍💻 Building projects with Django, JavaScript, React.js, and Razorpay integration
+
 💬 Ask me about Python, Django, JavaScript, and E-commerce platforms
+
 📚 Exploring cloud solutions and actively contributing to open-source projects
-👨‍💻 View my projects on my Portfolio
-📫 Contact me via email at aniketgavade45@gmail.com or LinkedIn
-📄 Learn more about my work in my Resume
+
+🔗 Portfolio: View my projects and accomplishments [link to portfolio here]
+
+📫 Contact: Reach out via email at aniketgavade45@gmail.com or connect on LinkedIn
 📲 Connect with me:
 <div align="left"> <a href="https://github.com/aniketgavade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> <a href="https://linkedin.com/in/aniket-gavade-fullstackdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> </div>
 🔧 Technologies & Tools:
