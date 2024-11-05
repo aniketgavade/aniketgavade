@@ -3,7 +3,8 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 I'm a passionate Full Stack Developer with hands-on experience in building scalable web applications, E-commerce platforms, and modern digital solutions.
 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76407&width=435&lines=Full+Stack+Developer;E-commerce+Platform+Creator;Cloud+Solutions+Explorer" alt="Typing SVG" /></h3>
-🏆 GitHub Trophies
+🏆 GitHub Trophies 
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aniketgavade&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 🚀 About Me:
