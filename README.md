@@ -30,7 +30,7 @@ I'm a passionate Full Stack Developer with hands-on experience in building scala
 
 <div align="left"> 
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,flask,java,spring,c,mysql,mongodb,sqlite,aws,windows,linux,git,github,vscode,pycharm,eclipse,postman&perline=10)](https://github.com/tejasb15/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,flask,java,spring,c,mysql,mongodb,sqlite,aws,windows,linux,git,github,vscode,pycharm,eclipse,postman&perline=10)](https://github.com/aniketgavade/)
 
 </div>
 
