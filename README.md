@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer with hands-on experience in building scala
 📄 Learn more about my work in my Resume
 📲 Connect with me:
 <div align="left"> <a href="https://github.com/aniketgavade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> <a href="https://linkedin.com/in/aniket-gavade-fullstackdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> </div>
-## 🔧 Technologies & Tools:
+🔧 Technologies & Tools:
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
